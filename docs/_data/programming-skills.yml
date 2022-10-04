@@ -1,11 +1,11 @@
-- name: HTML5/CSS3
+- name: IT Networking
   percentage: 90
   color: danger
 
-- name: Go
+- name: Virtualization
   percentage: 80
   color:
 
-- name: Python
+- name: Ubiquiti, Mikrotik, Cisco
   percentage: 70
   color: secondary
