@@ -41,7 +41,8 @@ Next, paste the following and edit the variables as needed. Change `YOUR-PASSWOR
 
 ```shell
 {
-  "database": {
+  "database": 
+  {
     "engine": "mysql",
     "host": "db",
     "name": "nginxproxymanager",
@@ -103,8 +104,9 @@ Enter the location (ip address of machine) of the nginx proxy manager with port 
 
 The default login credentials are:
 
-**Email:**: admin@example.com
-**Password:**: changeme
+**Email:** admin@example.com
+
+**Password:** changeme
 
 ## Port Forwarding
 
