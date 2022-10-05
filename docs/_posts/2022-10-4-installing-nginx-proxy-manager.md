@@ -8,7 +8,7 @@ description: A overview on installing nginx proxy manager.
 
 # Introduction
 
-[Nginx Proxy Manager](https://nginxproxymanager.com) is a project comes as a pre-built docker image that enables you to easily forward to your websites running at home or otherwise, including free SSL, without having to know too much about Nginx or Letsencrypt.
+[Nginx Proxy Manager](https://nginxproxymanager.com) is a reverse proxy manager as a pre-built docker image. It allows us to proxy web servers for external, with the added benefit of security using free SSL certificates from Letsencrypt.
 
 ## Prerequisites
 
